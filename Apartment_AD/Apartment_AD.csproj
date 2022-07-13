@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6B83BA9-59C6-4573-8666-BC63CFC9A063}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Apartment_AD</RootNamespace>
+    <AssemblyName>Apartment_AD</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UI\AboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AboutUs.Designer.cs">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApartmentDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApartmentDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ApartmentDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApartmentDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ApartmentDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApartmentDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ApartmentDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApartmentDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ApartmentDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApartmentDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BLL\ApartmentBLL.cs" />
+    <Compile Include="BLL\Apa_DetailsBLL.cs" />
+    <Compile Include="BLL\InvoiceBLL.cs" />
+    <Compile Include="BLL\OwnerBLL.cs" />
+    <Compile Include="BLL\PaymentBLL.cs" />
+    <Compile Include="BLL\ProfitBLL.cs" />
+    <Compile Include="BLL\ReportBLL.cs" />
+    <Compile Include="BLL\TenantBLL.cs" />
+    <Compile Include="BLL\Tenant_DetailsBLL.cs" />
+    <Compile Include="BLL\Te_PaymentBLL.cs" />
+    <Compile Include="DAL\ApartmentDAL.cs" />
+    <Compile Include="DAL\Apa_DetailsDAL.cs" />
+    <Compile Include="DAL\InvoiceDAL.cs" />
+    <Compile Include="DAL\OwnerDAL.cs" />
+    <Compile Include="DAL\PaymentDAL.cs" />
+    <Compile Include="DAL\ProfitDAL.cs" />
+    <Compile Include="DAL\ReportDAL.cs" />
+    <Compile Include="DAL\TenantDAL.cs" />
+    <Compile Include="DAL\Tenant_DetailsDAL.cs" />
+    <Compile Include="DAL\Te_PaymentDAL.cs" />
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\HelpDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\HelpDe.Designer.cs">
+      <DependentUpon>HelpDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Profit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Profit.Designer.cs">
+      <DependentUpon>Profit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Apart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Apart.Designer.cs">
+      <DependentUpon>Apart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApartmentDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApartmentDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ApartmentDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApartmentDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ApartmentDataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApartmentDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ApartmentDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApartmentDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ApartmentDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApartmentDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ApartmentDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ApartmentDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BLL\loginBLL.cs" />
+    <Compile Include="DAL\loginDAL.cs" />
+    <Compile Include="UI\Paid_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Paid_Details.Designer.cs">
+      <DependentUpon>Paid_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Tenant_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Tenant_Details.Designer.cs">
+      <DependentUpon>Tenant_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Apa_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Apa_Details.Designer.cs">
+      <DependentUpon>Apa_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DashboardTenant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DashboardTenant.Designer.cs">
+      <DependentUpon>DashboardTenant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DashboardOwner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DashboardOwner.Designer.cs">
+      <DependentUpon>DashboardOwner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LMUDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LMUDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Owner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Owner.Designer.cs">
+      <DependentUpon>Owner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Payment.Designer.cs">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Tenant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Tenant.Designer.cs">
+      <DependentUpon>Tenant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Te_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Te_Payment.Designer.cs">
+      <DependentUpon>Te_Payment.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\AboutUs.resx">
+      <DependentUpon>AboutUs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\HelpDe.resx">
+      <DependentUpon>HelpDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportRDLC.rdlc" />
+    <EmbeddedResource Include="UI\Profit.resx">
+      <DependentUpon>Profit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Apart.resx">
+      <DependentUpon>Apart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Paid_Details.resx">
+      <DependentUpon>Paid_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Tenant_Details.resx">
+      <DependentUpon>Tenant_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Apa_Details.resx">
+      <DependentUpon>Apa_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DashboardTenant.resx">
+      <DependentUpon>DashboardTenant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DashboardOwner.resx">
+      <DependentUpon>DashboardOwner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Owner.resx">
+      <DependentUpon>Owner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Payment.resx">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Tenant.resx">
+      <DependentUpon>Tenant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Te_Payment.resx">
+      <DependentUpon>Te_Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ApartmentDataSet.xsc">
+      <DependentUpon>ApartmentDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApartmentDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApartmentDataSet.xss">
+      <DependentUpon>ApartmentDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet1.xsc">
+      <DependentUpon>ApartmentDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApartmentDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApartmentDataSet1.xss">
+      <DependentUpon>ApartmentDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet10.xsc">
+      <DependentUpon>ApartmentDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApartmentDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApartmentDataSet10.xss">
+      <DependentUpon>ApartmentDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet12.xsc">
+      <DependentUpon>ApartmentDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApartmentDataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApartmentDataSet12.xss">
+      <DependentUpon>ApartmentDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet2.xsc">
+      <DependentUpon>ApartmentDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApartmentDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApartmentDataSet2.xss">
+      <DependentUpon>ApartmentDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet3.xsc">
+      <DependentUpon>ApartmentDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApartmentDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApartmentDataSet3.xss">
+      <DependentUpon>ApartmentDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet4.xsc">
+      <DependentUpon>ApartmentDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApartmentDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApartmentDataSet4.xss">
+      <DependentUpon>ApartmentDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet5.xsc">
+      <DependentUpon>ApartmentDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApartmentDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApartmentDataSet5.xss">
+      <DependentUpon>ApartmentDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet7.xsc">
+      <DependentUpon>ApartmentDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApartmentDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApartmentDataSet7.xss">
+      <DependentUpon>ApartmentDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet8.xsc">
+      <DependentUpon>ApartmentDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApartmentDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApartmentDataSet8.xss">
+      <DependentUpon>ApartmentDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet9.xsc">
+      <DependentUpon>ApartmentDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="ApartmentDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ApartmentDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ApartmentDataSet9.xss">
+      <DependentUpon>ApartmentDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LMUDBDataSet.xsc">
+      <DependentUpon>LMUDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LMUDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LMUDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LMUDBDataSet.xss">
+      <DependentUpon>LMUDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Owner1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ower.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aPA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ten.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PAY.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ower1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ower2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aPA1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

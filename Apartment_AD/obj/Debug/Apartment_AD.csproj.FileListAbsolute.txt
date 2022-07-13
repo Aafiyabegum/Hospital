@@ -1,0 +1,166 @@
+c:\users\dell\documents\visual studio 2012\Projects\Apartment_AD\Apartment_AD\bin\Debug\Apartment_AD.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\Apartment_AD\Apartment_AD\bin\Debug\Apartment_AD.exe
+c:\users\dell\documents\visual studio 2012\Projects\Apartment_AD\Apartment_AD\bin\Debug\Apartment_AD.pdb
+c:\users\dell\documents\visual studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.exe
+c:\users\dell\documents\visual studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.LogIn.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.Dashboard.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.Owner.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.Apart.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.Tenant.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.Payment.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.Due.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.Maintenance.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD\Apartment_AD\obj\Debug\Apartment_AD.Monthly.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\bin\Debug\Apartment_AD.exe.config
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\bin\Debug\Apartment_AD.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\bin\Debug\Apartment_AD.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Apart.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Due.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.LogIn.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Maintenance.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Monthly.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Owner.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Payment.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Tenant.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Dashboard.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Dash2.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Dash3.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Apa_Details.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.TE_Details.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\bin\Debug\Apartment_AD.exe.config
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\bin\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\bin\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Apart.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.TE_Details.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Apa_Details.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Dash2.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Dash3.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Dashboard.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Due.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.LogIn.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Maintenance.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Monthly.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Owner.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Payment.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Properties.Resources.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Tenant.resources
+C:\Users\DELL\Desktop\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\bin\Debug\Apartment_AD.exe.config
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Apart.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Apa_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Dash2.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Dash3.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Dashboard.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.LogIn.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Owner.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Payment.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Properties.Resources.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Tenant.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\bin\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\bin\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Te_Payment.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Paid_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Copy\Apartment_AD\obj\Debug\Apartment_AD.Tenant_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\bin\Debug\Apartment_AD.exe.config
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\bin\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\bin\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Apart.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Paid_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Tenant_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Apa_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Dash2.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Dash3.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Dashboard.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.LogIn.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Owner.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Payment.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Properties.Resources.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Tenant.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Te_Payment.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\bin\Debug\Apartment_AD.exe.config
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\bin\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\bin\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Apart.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Paid_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Tenant_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Apa_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Dash2.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Dash3.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Dashboard.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.LogIn.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Owner.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Payment.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Properties.Resources.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Tenant.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.Te_Payment.resources
+C:\Users\DELL\Desktop\AD Coursework\AD\Apartment_AD - REce\Apartment_AD\obj\Debug\Apartment_AD.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\bin\Debug\Apartment_AD.exe.config
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\bin\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\bin\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.Apart.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.Paid_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.Tenant_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.Apa_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.Dashboard.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.LogIn.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.Owner.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.Payment.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.Properties.Resources.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.Tenant.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.Te_Payment.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.Profit.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.DashboardTenant.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - REce - Copy\Apartment_AD\obj\Debug\Apartment_AD.DashboardOwner.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\bin\Debug\Apartment_AD.exe.config
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\bin\Debug\Apartment_AD.exe
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\bin\Debug\Apartment_AD.pdb
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Profit.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Apart.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Paid_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Tenant_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Apa_Details.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.DashboardTenant.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.DashboardOwner.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Dashboard.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.LogIn.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Owner.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Payment.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Properties.Resources.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Tenant.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Te_Payment.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.Report.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.HelpDe.resources
+C:\Users\DELL\Desktop\AD Coursework\Apartment_AD - Final\Apartment_AD\obj\Debug\Apartment_AD.AboutUs.resources
